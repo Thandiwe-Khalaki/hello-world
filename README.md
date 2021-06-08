@@ -1,2 +1,5 @@
 # hello-world
-Tis is a test repository
+This is a test repository
+
+## About Me
+I love coding
